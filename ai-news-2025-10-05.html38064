@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="fi">
+
+<head>
+	<title>Kvanttimekaniikan Uutiskatsaus 2025</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!--[if mso]>
+<xml><w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word"><w:DontUseAdvancedTypographyReadingMail/></w:WordDocument>
+<o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml>
+<![endif]-->
+	<!--[if !mso]><!-->
+	<link href="https://fonts.googleapis.com/css2?family=Droid+Serif:wght@700&family=Lato:wght@400;700&display=swap" rel="stylesheet" type="text/css">
+	<!--<![endif]-->
+	<style>
+		* {
+			box-sizing: border-box;
+		}
+
+		body {
+			margin: 0;
+			padding: 0;
+			background-color: #0a192f;
+			font-family: 'Lato', Tahoma, Verdana, Segoe, sans-serif;
+			color: #e1e6f0;
+		}
+
+		a[x-apple-data-detectors] {
+			color: inherit !important;
+			text-decoration: inherit !important;
+		}
+
+		#MessageViewBody a {
+			color: #00b7ff;
+			text-decoration: none;
+		}
+
+		p {
+			line-height: 1.5;
+			margin: 0 0 1.2em 0;
+		}
+
+		h1, h2 {
+			font-family: 'Droid Serif', Georgia, serif;
+			color: #61dafb;
+			margin: 0 0 0.5em 0;
+			line-height: 1.1;
+		}
+
+		h1 {
+			font-size: 36px;
+		}
+
+		h2 {
+			font-size: 24px;
+		}
+
+		.container {
+			max-width: 700px;
+			margin: 0 auto;
+			background-color: #112240;
+			border-radius: 12px;
+			padding: 40px 30px 50px 30px;
+		}
+
+		.header {
+			text-align: center;
+			margin-bottom: 25px;
+		}
+
+		.header img {
+			width: 140px;
+			height: auto;
+			margin-bottom: 15px;
+		}
+
+		.hero img {
+			border-radius: 14px;
+			max-width: 100%;
+			height: auto;
+			margin-bottom: 30px;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			box-shadow: 0 4px 24px rgba(0, 183, 255, 0.4);
+		}
+
+		.intro {
+			font-size: 18px;
+			color: #a9b2d6;
+			text-align: center;
+			margin-bottom: 30px;
+			line-height: 1.4;
+		}
+
+		.section {
+			margin-bottom: 40px;
+		}
+
+		.list-item {
+			margin-bottom: 15px;
+			font-size: 18px;
+		}
+
+		.list-item strong {
+			color: #61dafb;
+		}
+
+		.footer {
+			font-size: 14px;
+			color: #5f7cbb;
+			text-align: center;
+			margin-top: 50px;
+			line-height: 1.4;
+		}
+
+		.footer a {
+			color: #61dafb;
+			text-decoration: none;
+		}
+
+		.button {
+			display: inline-block;
+			background-color: #61dafb;
+			color: #0a192f !important;
+			text-decoration: none;
+			padding: 14px 36px;
+			border-radius: 30px;
+			font-weight: 700;
+			font-size: 18px;
+			margin-top: 20px;
+			transition: background-color 0.25s ease;
+		}
+
+		.button:hover {
+			background-color: #21a1f1;
+		}
+
+		@media (max-width: 720px) {
+			.container {
+				padding: 30px 20px 40px 20px;
+			}
+			
+			h1 {
+				font-size: 28px !important;
+			}
+			
+			h2 {
+				font-size: 20px !important;
+			}
+			
+			.intro,
+			.list-item {
+				font-size: 16px !important;
+			}
+			
+			.button {
+				font-size: 16px !important;
+				padding: 12px 28px !important;
+			}
+		}
+	</style>
+</head>
+
+<body>
+	<div class="container" role="article" aria-roledescription="email" aria-label="Kvanttimekaniikan Uutiskatsaus 2025">
+		<header class="header">
+			<img src="https://cdn.prod.website-files.com/65e48f6a99bab6d0ff947447/685afa1a45bf8bde08a73eb6_Screenshot%202025-06-24%20at%203.18.46%E2%80%AFPM.png" alt="Kvanttiteknologian kehitys 2025" width="140" height="auto" />
+			<h1>Terveiset kvanttimekaniikan maailmasta 2025</h1>
+		</header>
+
+		<section class="intro" aria-label="Introductory text">
+			<p>Moikka! Tässä tuoreimmat kuulumiset kvanttimekaniikan tutkimuksista ja teknologian kehityksestä – isoja juttuja, jotka muuttavat pelin.</p>
+		</section>
+
+		<section class="section" aria-labelledby="major-updates">
+			<h2 id="major-updates">Merkittävät edistysaskeleet</h2>
+			<ul>
+				<li class="list-item"><strong>Microsoftin Majorana 1 -kvanttiprosessori:</strong> Uusi topologisia kubitteja hyödyntävä prosessori, joka voi olla vakaimpia koskaan.</li>
+				<li class="list-item"><strong>Magic state distillation -läpimurto:</strong> Virheenkorjatun kvanttilaskennan toteutus on ottanut jättihypyn eteenpäin.</li>
+				<li class="list-item"><strong>ETH Zürichin huoneenlämpöinen kvanttinen liike:</strong> Nanolasihelmien leijuttaminen ilman jäähdytystä!</li>
+				<li class="list-item"><strong>Uudet hiukkaset ja kvanttiset tilat:</strong> Neglectonin löytäminen ja uusi kvanttinen nestekide parantavat laitteiden vakautta.</li>
+				<li class="list-item"><strong>Kvanttilaskenta + tekoäly:</strong> Suuret harppaukset virheenkorjauksessa sekä optimointimalleissa.</li>
+				<li class="list-item"><strong>Biologiset kubitit:</strong> Chicagon tutkijat ovat ohjelmoineet soluproteiinin kvanttikubittina toimimaan.</li>
+			</ul>
+		</section>
+
+		<section class="hero" aria-label="Second related image with caption">
+			<img src="https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/quantum-computing-in-2025-from-promise-to-reality-showcase_image-9-a-27184.jpg" alt="Kvanttilaskenta 2025" />
+		</section>
+
+		<section class="section" aria-labelledby="additional-insights">
+			<h2 id="additional-insights">Muita kiinnostavia aiheita</h2>
+			<p class="list-item">Kvanttiverkot kehittyvät pitkien etäisyyksien yhteyksiin, ja pimeän aineen tutkimus etenee uusien detektorien ja teorioiden myötä.</p>
+			<p class="list-item">Lisäksi tutkimukset kvanttisensoreista, kvanttikommunikaatiosta ja biologisista kubiteista avaavat uusia mahdollisuuksia.</p>
+		</section>
+
+		<section class="section" aria-label="Link to sources">
+			<p>Jos haluat sukeltaa syvemmälle, suosittelen tsekkaamaan nämä artikkelit ja tutkimukset:</p>
+			<ul>
+				<li><a href="https://journeyhomeschoolacademy.com/new-physics-discoveries-2025/" target="_blank" rel="noopener">Journey Homeschool Academy – New Physics Discoveries 2025</a></li>
+				<li><a href="https://www.sciencedaily.com/news/matter_energy/quantum_physics/" target="_blank" rel="noopener">ScienceDaily – Quantum Physics News</a></li>
+				<li><a href="https://thequantuminsider.com/2024/12/23/big-ideas-in-quantum-for-2025/" target="_blank" rel="noopener">The Quantum Insider – Big Ideas in Quantum for 2025</a></li>
+				<li><a href="https://news.uchicago.edu/story/scientists-program-cells-create-biological-qubit-quantum-breakthrough" target="_blank" rel="noopener">University of Chicago – Biological Qubit Breakthrough</a></li>
+			</ul>
+		</section>
+
+		<section class="hero" aria-label="First related image with caption">
+			<img src="https://cdn.prod.website-files.com/65e48f6a99bab6d0ff947447/685afa1a45bf8bde08a73eb6_Screenshot%202025-06-24%20at%203.18.46%E2%80%AFPM.png" alt="Kvanttiteknologian kehitys 2025" />
+		</section>
+
+		<section class="section" style="text-align:center;">
+			<a href="https://thequantuminsider.com/2024/12/23/big-ideas-in-quantum-for-2025/" target="_blank" rel="noopener" class="button" aria-label="Lue lisää kvanttitekniikan edistysaskeleista">Lue lisää kvanttitekniikan edistysaskeleista</a>
+		</section>
+
+		<footer class="footer">
+			<p>Kiitos kun seuraat kanssamme tämän mieleenpainuvan teknologia-ajanjakson tapahtumia. Pidetään fokus kirkkaana!</p>
+			<p>– Tim Ferris</p>
+			<p><a href="http://www.example.com/unsubscribe" target="_blank" rel="noopener">Peruuta tilaus</a> | <a href="#" target="_blank" rel="noopener">Näytä selaimessa</a></p>
+		</footer>
+	</div>
+</body>
+
+</html>
