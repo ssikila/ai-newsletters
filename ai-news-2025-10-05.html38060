@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="fi">
+
+<head>
+	<title>Viimeisimmät tekoälyuutiset - Lokakuu 2025</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!--[if mso]>
+<xml><w:WordDocument xmlns:w="urn:schemas-microsoft-com:office:word"><w:DontUseAdvancedTypographyReadingMail/></w:WordDocument>
+<o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml>
+<![endif]-->
+	<!--[if !mso]><!-->
+	<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet" type="text/css">
+	<!--<![endif]-->
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			background-color: #f5f7fa;
+			-webkit-text-size-adjust: none;
+			-ms-text-size-adjust: none;
+			font-family: 'Lato', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+				"Oxygen", "Ubuntu", Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+		}
+
+		table {
+			border-spacing: 0;
+			border-collapse: collapse;
+		}
+
+		img {
+			display: block;
+			height: auto;
+			border: 0;
+			line-height: 100%;
+			outline: none;
+			text-decoration: none;
+			max-width: 100%;
+		}
+
+		a {
+			color: #0066cc;
+			text-decoration: none;
+		}
+
+		a:hover {
+			text-decoration: underline;
+		}
+
+		.wrapper {
+			width: 100%;
+			table-layout: fixed;
+			background-color: #f5f7fa;
+			padding-bottom: 40px;
+			padding-top: 40px;
+		}
+
+		.container {
+			background-color: #ffffff;
+			width: 700px;
+			max-width: 90%;
+			margin: 0 auto;
+			border-radius: 14px;
+			overflow: hidden;
+			box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+		}
+
+		.header {
+			background-color: #0071e3;
+			padding: 25px 50px;
+			text-align: center;
+			color: white;
+			font-size: 36px;
+			font-weight: 700;
+			letter-spacing: -0.02em;
+			user-select: none;
+		}
+
+		.hero-image {
+			width: 100%;
+			height: auto;
+			object-fit: cover;
+		}
+
+		.content {
+			padding: 30px 50px 40px 50px;
+			color: #1d1d1f;
+			font-size: 18px;
+			line-height: 1.5;
+		}
+
+		h1,
+		h2 {
+			color: #111;
+			margin-top: 0;
+			font-weight: 700;
+		}
+
+		h1 {
+			font-size: 28px;
+			margin-bottom: 12px;
+		}
+
+		h2 {
+			font-size: 22px;
+			margin-bottom: 8px;
+			margin-top: 28px;
+		}
+
+		.list {
+			margin: 0;
+			padding-left: 20px;
+			margin-top: 12px;
+		}
+
+		.list li {
+			margin-bottom: 10px;
+		}
+
+		.section-image {
+			margin: 30px 0;
+			text-align: center;
+		}
+
+		.section-image img {
+			border-radius: 10px;
+			box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+		}
+
+		.button-container {
+			text-align: center;
+			margin-top: 32px;
+			margin-bottom: 24px;
+		}
+
+		.button {
+			background-color: #0071e3;
+			color: white !important;
+			padding: 14px 44px;
+			border-radius: 26px;
+			font-weight: 700;
+			font-size: 18px;
+			display: inline-block;
+			text-decoration: none;
+			letter-spacing: 0.02em;
+			user-select: none;
+		}
+
+		.footer {
+			text-align: center;
+			font-size: 14px;
+			color: #888;
+			padding: 30px 50px;
+			user-select: none;
+		}
+
+		.footer a {
+			color: #0071e3;
+			text-decoration: underline;
+		}
+
+		@media only screen and (max-width: 720px) {
+			.container {
+				width: 95% !important;
+				padding: 0 !important;
+			}
+
+			.content {
+				padding: 25px 20px 40px 20px !important;
+				font-size: 16px !important;
+			}
+
+			.header {
+				font-size: 28px !important;
+				padding: 20px 20px !important;
+			}
+
+			h1 {
+				font-size: 24px !important;
+			}
+
+			h2 {
+				font-size: 20px !important;
+			}
+
+			.button {
+				font-size: 16px !important;
+				padding: 12px 32px !important;
+			}
+		}
+	</style>
+</head>
+
+<body>
+	<center class="wrapper">
+		<table role="presentation" class="container" cellpadding="0" cellspacing="0" width="700">
+			<tr>
+				<td class="header" role="banner" aria-label="Tekoälyuutiset Lokakuussa 2025">
+					Viimeisimmät Tekoälyuutiset • Lokakuu 2025
+				</td>
+			</tr>
+			<tr>
+				<td align="center" style="background-color:#eef5fb;">
+					<img src="https://www.solulab.com/wp-content/uploads/2024/01/Top-AI-Applications-1.jpg"
+						alt="Tekoälyn sovellukset 2025" width="700" class="hero-image" />
+				</td>
+			</tr>
+			<tr>
+				<td class="content">
+					<h1>Hei, ystävä!</h1>
+					<p>Lokakuun 2025 tekoälyuutisissa on tapahtunut paljon jännittävää, joten tässä ystävällinen
+						katsaus viimeisimmistä edistysaskelista eri aloilla – tuotelanseerauksista yritysten
+						tekoälyinvestointeihin ja terveydenhuollon innovaatioihin.</p>
+
+					<h2>Mitä uutta tekoälyssä?</h2>
+					<ul class="list" aria-label="Tekoälyn tärkeimmät kehityskohteet">
+						<li>Generatiiviset ja agenttipohjaiset mallit vievät vuorovaikutuksen uudelle tasolle –
+							natuuraalisemmin ja juuri tarpeen mukaan.</li>
+						<li>Synteettisen datan hyödyntäminen parantaa tietosuojaa ja tehostaa koulutusta.</li>
+						<li>Jättiläiset Google ja Alibaba panostavat miljardien sijoituksiin – mm. Googlen 9 miljardia
+							dollaria ja Alibaban huikea 480 miljardin parametrin koodaus-TEKOÄLY "Qwen3-Coder".</li>
+						<li>Cohere keräsi 500 miljoonaa dollaria laajentaakseen generatiivisen tekoälyn käyttöä yritysanalytiikassa
+							ja automaatiossa.</li>
+						<li>Terveydenhuollossa syöpätutkimus lasten hyväksi saa lisää rahoitusta, ja Britannian sairaaloissa
+							hyödynnetään tekoälyä diagnostiikassa ja leikkausavustuksissa – vaikka osaamisvajetta
+							on edelleen.</li>
+						<li>Uusia sovelluksia syntyy jatkuvasti: muoti, sääennusteet, auton äänisuunnittelu ja tekoälypankit,
+							kuten Malesian Ryt Bank.</li>
+						<li>Eettiset keskustelut jatkuvat – erityisesti luovien alojen vaikutukset ja yksityisyys tekoälyselausapureiden
+							vuoksi.</li>
+					</ul>
+
+					<div class="section-image" aria-label="Tekoälykonferenssit 2025">
+						<img src="https://www.clickittech.com/wp-content/uploads/2025/04/Top-AI-Conferences-2025-672x1024.png"
+							alt="Tekoälykonferenssit 2025" width="336" />
+					</div>
+
+					<h2>Lisää tietoa ja lähteet:</h2>
+					<p>Tsekkaa nämä sivustot, jos haluat syventyä tekoälyn uusimpiin työkaluihin ja trendeihin:</p>
+					<ul class="list">
+						<li><a href="https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends" target="_blank" rel="noopener noreferrer">AI Apps - kattava
+								hakemisto yli 1000 tekoälytyökalusta yrityksille</a></li>
+						<li><a href="https://www.crescendo.ai/news/latest-ai-news-and-updates" target="_blank" rel="noopener noreferrer">Crescendo - tekoälyn
+								ajankohtaiset uutiset</a></li>
+						<li><a href="https://www.artificialintelligence-news.com" target="_blank" rel="noopener noreferrer">Artificial Intelligence News
+								- trendit ja sovellukset</a></li>
+					</ul>
+
+					<div class="button-container">
+						<a href="https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends" target="_blank" rel="noopener" class="button" aria-label="Lisätietoja tekoälyuutisista ja työkaluista">
+							Lisätietoja & Tekoälytyökaluja →
+						</a>
+					</div>
+
+					<p>Pidetään uteliaisuus ja innovaatio mukana matkassa – tekoälyn maailma kehittyy vauhdilla!</p>
+					<p>Ystävällisin terveisin,<br />Tim Ferris</p>
+				</td>
+			</tr>
+			<tr>
+				<td class="footer" role="contentinfo">
+					<p>© 2025 Tim Ferris. Kaikki oikeudet pidätetään.</p>
+					<p><a href="http://www.example.com/unsubscribe" target="_blank" rel="noopener" aria-label="Peruuta tilaus">Peruuta tilaus</a> | <a href="#" aria-label="Näytä selaimessa">Näytä selaimessa</a></p>
+				</td>
+			</tr>
+		</table>
+	</center>
+</body>
+
+</html>
